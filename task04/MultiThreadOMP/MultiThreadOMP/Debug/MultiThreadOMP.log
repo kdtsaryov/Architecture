@@ -1,0 +1,3 @@
+﻿  MultiThreadOMP.cpp
+C:\Users\79169\Desktop\2 курс\C++ Прога\MultiThreadOMP\MultiThreadOMP\MultiThreadOMP.cpp(12,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MultiThreadOMP.vcxproj -> C:\Users\79169\Desktop\2 курс\C++ Прога\MultiThreadOMP\Debug\MultiThreadOMP.exe
