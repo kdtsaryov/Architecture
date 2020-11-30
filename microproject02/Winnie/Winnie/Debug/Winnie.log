@@ -1,0 +1,3 @@
+﻿  Winnie.cpp
+C:\Users\79169\Desktop\2 курс\C++ Прога\Winnie\Winnie\Winnie.cpp(119,17): warning C4244: =: преобразование "time_t" в "int", возможна потеря данных
+  Winnie.vcxproj -> C:\Users\79169\Desktop\2 курс\C++ Прога\Winnie\Debug\Winnie.exe
